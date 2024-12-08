@@ -1,0 +1,21 @@
+persediaan_id,produk_id,tanggal_masuk,jumlah_stok,lokasi_gudang,status_stok,kadaluarsa,jenis_stok,nama_supplier,kontak_supplier,catatan_persediaan
+1,1,01/06/2023,80,Gudang A,Aktif,01/01/2024,Barang Jadi,Supplier A,08100000000,Catatan Stok 1
+2,2,01/11/2023,130,Gudang B,Aktif,01/31/2024,Setengah Jadi,Supplier B,08100000001,Catatan Stok 2
+3,3,01/16/2023,100,Gudang A,Aktif,03/01/2024,Barang Jadi,Supplier C,08100000002,Catatan Stok 3
+4,4,01/21/2023,160,Gudang C,Aktif,03/31/2024,Setengah Jadi,Supplier D,08100000003,Catatan Stok 4
+5,5,01/26/2023,110,Gudang B,Aktif,04/30/2024,Barang Jadi,Supplier E,08100000004,Catatan Stok 5
+6,6,01/31/2023,90,Gudang A,Aktif,05/30/2024,Setengah Jadi,Supplier F,08100000005,Catatan Stok 6
+7,7,02/05/2023,150,Gudang C,Aktif,06/29/2024,Barang Jadi,Supplier G,08100000006,Catatan Stok 7
+8,8,02/10/2023,110,Gudang B,Aktif,07/29/2024,Setengah Jadi,Supplier H,08100000007,Catatan Stok 8
+9,9,02/15/2023,120,Gudang A,Aktif,08/28/2024,Barang Jadi,Supplier I,08100000008,Catatan Stok 9
+10,10,02/20/2023,130,Gudang C,Aktif,09/27/2024,Setengah Jadi,Supplier J,08100000009,Catatan Stok 10
+11,11,02/25/2023,95,Gudang B,Aktif,10/27/2024,Barang Jadi,Supplier K,08100000010,Catatan Stok 11
+12,12,03/02/2023,85,Gudang A,Aktif,11/26/2024,Setengah Jadi,Supplier L,08100000011,Catatan Stok 12
+13,13,03/07/2023,145,Gudang C,Aktif,12/26/2024,Barang Jadi,Supplier M,08100000012,Catatan Stok 13
+14,14,03/12/2023,105,Gudang B,Aktif,01/25/2025,Setengah Jadi,Supplier N,08100000013,Catatan Stok 14
+15,15,03/17/2023,115,Gudang A,Aktif,02/24/2025,Barang Jadi,Supplier O,08100000014,Catatan Stok 15
+16,16,03/22/2023,125,Gudang C,Aktif,03/26/2025,Setengah Jadi,Supplier P,08100000015,Catatan Stok 16
+17,17,03/27/2023,100,Gudang B,Aktif,04/25/2025,Barang Jadi,Supplier Q,08100000016,Catatan Stok 17
+18,18,04/01/2023,130,Gudang A,Aktif,05/25/2025,Setengah Jadi,Supplier R,08100000017,Catatan Stok 18
+19,19,04/06/2023,105,Gudang C,Aktif,06/24/2025,Barang Jadi,Supplier S,08100000018,Catatan Stok 19
+20,20,04/11/2023,140,Gudang B,Aktif,07/24/2025,Setengah Jadi,Supplier T,08100000019,Catatan Stok 20

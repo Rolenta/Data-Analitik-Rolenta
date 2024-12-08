@@ -1,0 +1,21 @@
+penjualan_id,tanggal_penjualan,produk_id,jumlah_terjual,harga_jual,metode_pembayaran,diskon,biaya_pengiriman,nama_pelanggan,alamat_pelanggan,nomor_invoice,status_penjualan
+4,01/22/2023,4,120,25000,Kredit,15,10000,Pelanggan D,Alamat D,INV2023-1003,Selesai
+20,04/12/2023,20,120,33000,Kredit,0,10000,Pelanggan T,Alamat T,INV2023-1019,Selesai
+13,03/08/2023,13,115,32000,Tunai,0,5000,Pelanggan M,Alamat M,INV2023-1012,Selesai
+7,02/06/2023,7,110,30000,Tunai,0,5000,Pelanggan G,Alamat G,INV2023-1006,Selesai
+10,02/21/2023,10,105,27000,Kredit,0,10000,Pelanggan J,Alamat J,INV2023-1009,Selesai
+9,02/16/2023,9,100,19000,Tunai,10,5000,Pelanggan I,Alamat I,INV2023-1008,Selesai
+18,04/02/2023,18,100,29000,Kredit,15,10000,Pelanggan R,Alamat R,INV2023-1017,Selesai
+16,03/23/2023,16,95,28000,Kredit,5,10000,Pelanggan P,Alamat P,INV2023-1015,Selesai
+2,01/12/2023,2,90,20000,Kredit,10,10000,Pelanggan B,Alamat B,INV2023-1001,Selesai
+8,02/11/2023,8,90,21000,Kredit,15,10000,Pelanggan H,Alamat H,INV2023-1007,Selesai
+5,01/27/2023,5,85,22000,Tunai,10,5000,Pelanggan E,Alamat E,INV2023-1004,Selesai
+15,03/18/2023,15,85,26000,Tunai,10,5000,Pelanggan O,Alamat O,INV2023-1014,Selesai
+14,03/13/2023,14,80,23000,Kredit,15,10000,Pelanggan N,Alamat N,INV2023-1013,Selesai
+19,04/07/2023,19,80,31000,Tunai,10,5000,Pelanggan S,Alamat S,INV2023-1018,Selesai
+3,01/17/2023,3,75,18000,Tunai,0,5000,Pelanggan C,Alamat C,INV2023-1002,Selesai
+1,01/07/2023,1,70,15000,Tunai,5,5000,Pelanggan A,Alamat A,INV2023-1000,Selesai
+11,02/26/2023,11,70,16000,Tunai,5,5000,Pelanggan K,Alamat K,INV2023-1010,Selesai
+17,03/28/2023,17,70,24000,Tunai,0,5000,Pelanggan Q,Alamat Q,INV2023-1016,Selesai
+12,03/03/2023,12,65,14000,Kredit,10,10000,Pelanggan L,Alamat L,INV2023-1011,Selesai
+6,02/01/2023,6,60,17000,Kredit,5,10000,Pelanggan F,Alamat F,INV2023-1005,Selesai
